@@ -1,12 +1,10 @@
-# 👋 Добро пожаловать в репозиторий `autoconf-code-oss-archlinux`
-
 Данный репозиторий предназначен для автоматического развёртывания Code OSS (Visual Studio Code Open Source Edition) с персональными настройками на ArchLinux и его производные.
 
 ---
 
-## 🖥️ Что входит в комплект?
+## Что входит в комплект?
 
-- **Оптимизированные настройки:** горячие клавиши, размер отступов, автосохранение и многое другое.
+- **Оптимизированные настройки:** горячие клавиши, размер отступов, сниппеты, автосохранение и многое другое.
 - **Простота установки:** одна команда — и вся необходимая среда готова к работе.
 
 ---
@@ -14,7 +12,7 @@
 ## 🚀 Быстрая установка
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/als-creator/autoconf-code-oss-archlinux/main/autoconf-code-oss-archlinux.sh | sh
+curl -fsSL https://raw.githubusercontent.com/als-creator/autoconf_code_oss_archlinux/main/autoconf_code_oss_archlinux.sh | sh
 ```
 
 Команда автоматически загрузит и выполнит сценарий установки, обеспечив нужный уровень комфорта и производительности.
